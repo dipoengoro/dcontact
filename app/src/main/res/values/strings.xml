@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">D Contact</string>
+    <string name="back_button">Back</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="detail_contact">Detail Contact</string>
+    <string name="edit_contact">Edit Contact</string>
+    <string name="contact_detail">Add Contact</string>
+</resources>
